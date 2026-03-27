@@ -1,0 +1,5 @@
+{
+  "name": "Brainstorm Board",
+  "description": "A real-time collaborative brainstorming board with sticky notes, upvoting, and a live leaderboard.",
+  "requestFramePermissions": []
+}
